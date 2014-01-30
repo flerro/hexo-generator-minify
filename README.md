@@ -35,5 +35,5 @@ Options:
 
 ## More info
 
-The _hexo-generator-minify_ plugin borrows a lot from (hexo-minifer)[https://npmjs.org/package/hexo-minifer] by [ChrisYip](https://github.com/ChrisYip). More on [Hexo plugins](https://github.com/tommy351/hexo/wiki/plugins).
+The _hexo-generator-minify_ plugin borrows a lot from [hexo-minifer](https://npmjs.org/package/hexo-minifer) by [ChrisYip](https://github.com/ChrisYip). Explore other [Hexo plugins](https://github.com/tommy351/hexo/wiki/plugins).
 
