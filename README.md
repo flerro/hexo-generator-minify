@@ -1,3 +1,10 @@
+
+# DEPRECATED
+
+Please use [hexo-html-minifier](https://github.com/hexojs/hexo-html-minifier) and [hexo-clean-css](https://github.com/hexojs/hexo-clean-css) instead.
+
+<hr>
+
 # hexo-generator-minify
 
 A plugin for [Hexo](http://zespia.tw/hexo) to generate static site with _minified_ CSS and Javascript resources.

@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-minify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An Hexo plugin to generate static site with minified CSS and JS resources",
   "main": "index",
   "repository": {
